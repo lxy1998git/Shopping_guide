@@ -1,0 +1,69 @@
+C:\Users\wangkang02\Documents\Tencent Files\843022412\FileRecv\iFlyC#\iFlyC#\XFvoice\bin\Debug\XFvoice.exe
+C:\Users\wangkang02\Documents\Tencent Files\843022412\FileRecv\iFlyC#\iFlyC#\XFvoice\bin\Debug\NAudio.dll
+C:\Users\wangkang02\Documents\Tencent Files\843022412\FileRecv\iFlyC#\iFlyC#\XFvoice\bin\Debug\XFvoice.exe.config
+C:\Users\wangkang02\Documents\Tencent Files\843022412\FileRecv\iFlyC#\iFlyC#\XFvoice\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\wangkang02\Documents\Tencent Files\843022412\FileRecv\iFlyC#\iFlyC#\XFvoice\bin\Debug\Microsoft.DirectX.dll
+C:\Users\wangkang02\Documents\Tencent Files\843022412\FileRecv\iFlyC#\iFlyC#\XFvoice\obj\Debug\MainWindow.baml
+C:\Users\wangkang02\Documents\Tencent Files\843022412\FileRecv\iFlyC#\iFlyC#\XFvoice\obj\Debug\MainWindow.g.cs
+C:\Users\wangkang02\Documents\Tencent Files\843022412\FileRecv\iFlyC#\iFlyC#\XFvoice\obj\Debug\App.g.cs
+C:\Users\wangkang02\Documents\Tencent Files\843022412\FileRecv\iFlyC#\iFlyC#\XFvoice\obj\Debug\XFvoice_MarkupCompile.cache
+C:\Users\wangkang02\Documents\Tencent Files\843022412\FileRecv\iFlyC#\iFlyC#\XFvoice\obj\Debug\XFvoice.g.resources
+C:\Users\wangkang02\Documents\Tencent Files\843022412\FileRecv\iFlyC#\iFlyC#\XFvoice\obj\Debug\XFvoice.Properties.Resources.resources
+C:\Users\wangkang02\Documents\Tencent Files\843022412\FileRecv\iFlyC#\iFlyC#\XFvoice\obj\Debug\XFvoice.csproj.GenerateResource.Cache
+C:\Users\wangkang02\Documents\Tencent Files\843022412\FileRecv\iFlyC#\iFlyC#\XFvoice\obj\Debug\XFvoice.exe
+C:\Users\wangkang02\Documents\Tencent Files\843022412\FileRecv\iFlyC#\iFlyC#\XFvoice\obj\Debug\XFvoice.pdb
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\bin\Debug\XFvoice.exe
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\bin\Debug\iFlyDotNet.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\bin\Debug\NAudio.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\bin\Debug\XFvoice.exe.config
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\bin\Debug\Microsoft.DirectX.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\bin\Debug\iFlyDotNet.pdb
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\obj\Debug\MainWindow.baml
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\obj\Debug\MainWindow.g.cs
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\obj\Debug\App.g.cs
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\obj\Debug\XFvoice_MarkupCompile.cache
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\obj\Debug\XFvoice.g.resources
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\obj\Debug\XFvoice.Properties.Resources.resources
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\obj\Debug\XFvoice.csproj.GenerateResource.Cache
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\obj\Debug\XFvoice.exe
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\obj\Debug\XFvoice.pdb
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\bin\Debug\XFvoice.exe
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\bin\Debug\iFlyDotNet.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\bin\Debug\NAudio.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\bin\Debug\XFvoice.exe.config
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\bin\Debug\XFvoice.pdb
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\bin\Debug\Microsoft.DirectX.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\bin\Debug\iFlyDotNet.pdb
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\obj\Debug\XFvoice.csprojResolveAssemblyReference.cache
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\obj\Debug\MainWindow.baml
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\obj\Debug\MainWindow.g.cs
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\obj\Debug\App.g.cs
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\obj\Debug\XFvoice_MarkupCompile.cache
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\obj\Debug\XFvoice.g.resources
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\obj\Debug\XFvoice.Properties.Resources.resources
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\obj\Debug\XFvoice.csproj.GenerateResource.Cache
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\obj\Debug\XFvoice.exe
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\obj\Debug\XFvoice.pdb
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.21.00\XFvoice\bin\Debug\XFvoice.exe.config
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.21.00\XFvoice\obj\Debug\XFvoice.exe
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.21.00\XFvoice\obj\Debug\XFvoice.pdb
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.21.00\XFvoice\bin\Debug\XFvoice.exe
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.21.00\XFvoice\bin\Debug\XFvoice.pdb
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.21.00\XFvoice\bin\Debug\iFlyDotNet.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.21.00\XFvoice\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.21.00\XFvoice\bin\Debug\Microsoft.DirectX.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.21.00\XFvoice\bin\Debug\NAudio.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.21.00\XFvoice\bin\Debug\iFlyDotNet.pdb
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.21.00\XFvoice\obj\Debug\MainWindow.baml
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.21.00\XFvoice\obj\Debug\MainWindow.g.cs
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.21.00\XFvoice\obj\Debug\App.g.cs
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.21.00\XFvoice\obj\Debug\XFvoice_MarkupCompile.cache
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.21.00\XFvoice\obj\Debug\XFvoice.g.resources
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.21.00\XFvoice\obj\Debug\XFvoice.Properties.Resources.resources
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.21.00\XFvoice\obj\Debug\XFvoice.csproj.GenerateResource.Cache
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.21.00\XFvoice\obj\Debug\XFvoice.csprojResolveAssemblyReference.cache
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.22.00\XFvoice\bin\Debug\XFvoice.exe.config
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.22.00\XFvoice\obj\Debug\XFvoice.exe
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.22.00\XFvoice\obj\Debug\XFvoice.pdb

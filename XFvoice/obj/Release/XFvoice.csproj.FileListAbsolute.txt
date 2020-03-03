@@ -1,0 +1,486 @@
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\bin\Release\XFvoice.exe.config
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\bin\Release\XFvoice.exe
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\bin\Release\XFvoice.pdb
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\bin\Release\iFlyDotNet.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\bin\Release\Microsoft.DirectX.DirectSound.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\bin\Release\Microsoft.DirectX.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\bin\Release\NAudio.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\bin\Release\iFlyDotNet.pdb
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\obj\Release\MainWindow.baml
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\obj\Release\MainWindow.g.cs
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\obj\Release\App.g.cs
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\obj\Release\XFvoice_MarkupCompile.cache
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\obj\Release\XFvoice.g.resources
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\obj\Release\XFvoice.Properties.Resources.resources
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\obj\Release\XFvoice.csproj.GenerateResource.Cache
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\obj\Release\XFvoice.exe
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\obj\Release\XFvoice.pdb
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\XFvoice\obj\Release\XFvoice.csprojResolveAssemblyReference.cache
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\bin\Release\XFvoice.exe.config
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\obj\Release\XFvoice.exe
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\obj\Release\XFvoice.pdb
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\bin\Release\XFvoice.exe
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\bin\Release\XFvoice.pdb
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\bin\Release\iFlyDotNet.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\bin\Release\Microsoft.DirectX.DirectSound.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\bin\Release\Microsoft.DirectX.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\bin\Release\NAudio.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\bin\Release\iFlyDotNet.pdb
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\obj\Release\XFvoice.csprojResolveAssemblyReference.cache
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\obj\Release\MainWindow.baml
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\obj\Release\MainWindow.g.cs
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\obj\Release\App.g.cs
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\obj\Release\XFvoice_MarkupCompile.cache
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\obj\Release\XFvoice.g.resources
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\obj\Release\XFvoice.Properties.Resources.resources
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#\XFvoice\obj\Release\XFvoice.csproj.GenerateResource.Cache
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.21.00\XFvoice\bin\Release\XFvoice.exe.config
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.21.00\XFvoice\obj\Release\XFvoice.exe
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.21.00\XFvoice\obj\Release\XFvoice.pdb
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.22.00\XFvoice\bin\Release\XFvoice.exe.config
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.22.00\XFvoice\obj\Release\XFvoice.exe
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.22.00\XFvoice\obj\Release\XFvoice.pdb
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.22.00\XFvoice\bin\Release\XFvoice.exe
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.22.00\XFvoice\bin\Release\XFvoice.pdb
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.22.00\XFvoice\bin\Release\iFlyDotNet.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.22.00\XFvoice\bin\Release\Microsoft.DirectX.DirectSound.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.22.00\XFvoice\bin\Release\Microsoft.DirectX.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.22.00\XFvoice\bin\Release\NAudio.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.22.00\XFvoice\bin\Release\iFlyDotNet.pdb
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.22.00\XFvoice\obj\Release\MainWindow.baml
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.22.00\XFvoice\obj\Release\MainWindow.g.cs
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.22.00\XFvoice\obj\Release\App.g.cs
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.22.00\XFvoice\obj\Release\XFvoice_MarkupCompile.cache
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.22.00\XFvoice\obj\Release\XFvoice.g.resources
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.22.00\XFvoice\obj\Release\XFvoice.Properties.Resources.resources
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.22.00\XFvoice\obj\Release\XFvoice.csproj.GenerateResource.Cache
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.22.00\XFvoice\obj\Release\XFvoice.csprojResolveAssemblyReference.cache
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.23.00\XFvoice\bin\Release\XFvoice.exe.config
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.23.00\XFvoice\obj\Release\XFvoice.exe
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.23.00\XFvoice\obj\Release\XFvoice.pdb
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.23.00\XFvoice\bin\Release\XFvoice.exe
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.23.00\XFvoice\bin\Release\XFvoice.pdb
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.23.00\XFvoice\bin\Release\iFlyDotNet.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.23.00\XFvoice\bin\Release\Microsoft.DirectX.DirectSound.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.23.00\XFvoice\bin\Release\Microsoft.DirectX.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.23.00\XFvoice\bin\Release\NAudio.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.23.00\XFvoice\bin\Release\iFlyDotNet.pdb
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.23.00\XFvoice\obj\Release\XFvoice.csprojResolveAssemblyReference.cache
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.23.00\XFvoice\obj\Release\MainWindow.baml
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.23.00\XFvoice\obj\Release\MainWindow.g.cs
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.23.00\XFvoice\obj\Release\App.g.cs
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.23.00\XFvoice\obj\Release\XFvoice_MarkupCompile.cache
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.23.00\XFvoice\obj\Release\XFvoice.g.resources
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.23.00\XFvoice\obj\Release\XFvoice.Properties.Resources.resources
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.10.23.00\XFvoice\obj\Release\XFvoice.csproj.GenerateResource.Cache
+C:\Users\wangkang02\Desktop\iFlyC#04.10.23.00\XFvoice\bin\Release\XFvoice.exe.config
+C:\Users\wangkang02\Desktop\iFlyC#04.10.23.00\XFvoice\obj\Release\XFvoice.exe
+C:\Users\wangkang02\Desktop\iFlyC#04.10.23.00\XFvoice\obj\Release\XFvoice.pdb
+C:\Users\wangkang02\Desktop\iFlyC#04.10.23.00\XFvoice\bin\Release\XFvoice.exe
+C:\Users\wangkang02\Desktop\iFlyC#04.10.23.00\XFvoice\bin\Release\XFvoice.pdb
+C:\Users\wangkang02\Desktop\iFlyC#04.10.23.00\XFvoice\bin\Release\iFlyDotNet.dll
+C:\Users\wangkang02\Desktop\iFlyC#04.10.23.00\XFvoice\bin\Release\NAudio.dll
+C:\Users\wangkang02\Desktop\iFlyC#04.10.23.00\XFvoice\bin\Release\iFlyDotNet.pdb
+C:\Users\wangkang02\Desktop\iFlyC#04.10.23.00\XFvoice\obj\Release\XFvoice.csprojResolveAssemblyReference.cache
+C:\Users\wangkang02\Desktop\iFlyC#04.10.23.00\XFvoice\obj\Release\MainWindow.baml
+C:\Users\wangkang02\Desktop\iFlyC#04.10.23.00\XFvoice\obj\Release\MainWindow.g.cs
+C:\Users\wangkang02\Desktop\iFlyC#04.10.23.00\XFvoice\obj\Release\App.g.cs
+C:\Users\wangkang02\Desktop\iFlyC#04.10.23.00\XFvoice\obj\Release\XFvoice_MarkupCompile.cache
+C:\Users\wangkang02\Desktop\iFlyC#04.10.23.00\XFvoice\obj\Release\XFvoice.g.resources
+C:\Users\wangkang02\Desktop\iFlyC#04.10.23.00\XFvoice\obj\Release\XFvoice.Properties.Resources.resources
+C:\Users\wangkang02\Desktop\iFlyC#04.10.23.00\XFvoice\obj\Release\XFvoice.csproj.GenerateResource.Cache
+C:\Users\wangkang02\Desktop\iFlyC#04.11.00.04\XFvoice\bin\Release\XFvoice.exe.config
+C:\Users\wangkang02\Desktop\iFlyC#04.11.00.04\XFvoice\obj\Release\XFvoice.exe
+C:\Users\wangkang02\Desktop\iFlyC#04.11.00.04\XFvoice\obj\Release\XFvoice.pdb
+C:\Users\wangkang02\Desktop\iFlyC#04.11.00.04\XFvoice\bin\Release\XFvoice.exe
+C:\Users\wangkang02\Desktop\iFlyC#04.11.00.04\XFvoice\bin\Release\XFvoice.pdb
+C:\Users\wangkang02\Desktop\iFlyC#04.11.00.04\XFvoice\bin\Release\iFlyDotNet.dll
+C:\Users\wangkang02\Desktop\iFlyC#04.11.00.04\XFvoice\bin\Release\NAudio.dll
+C:\Users\wangkang02\Desktop\iFlyC#04.11.00.04\XFvoice\bin\Release\iFlyDotNet.pdb
+C:\Users\wangkang02\Desktop\iFlyC#04.11.00.04\XFvoice\obj\Release\XFvoice.csprojResolveAssemblyReference.cache
+C:\Users\wangkang02\Desktop\iFlyC#04.11.00.04\XFvoice\obj\Release\MainWindow.baml
+C:\Users\wangkang02\Desktop\iFlyC#04.11.00.04\XFvoice\obj\Release\MainWindow.g.cs
+C:\Users\wangkang02\Desktop\iFlyC#04.11.00.04\XFvoice\obj\Release\App.g.cs
+C:\Users\wangkang02\Desktop\iFlyC#04.11.00.04\XFvoice\obj\Release\XFvoice_MarkupCompile.cache
+C:\Users\wangkang02\Desktop\iFlyC#04.11.00.04\XFvoice\obj\Release\XFvoice.g.resources
+C:\Users\wangkang02\Desktop\iFlyC#04.11.00.04\XFvoice\obj\Release\XFvoice.Properties.Resources.resources
+C:\Users\wangkang02\Desktop\iFlyC#04.11.00.04\XFvoice\obj\Release\XFvoice.csproj.GenerateResource.Cache
+C:\Users\wangkang02\Desktop\iFlyC#04.12.02.04\XFvoice\bin\Release\XFvoice.exe.config
+C:\Users\wangkang02\Desktop\iFlyC#04.12.02.04\XFvoice\obj\Release\XFvoice.exe
+C:\Users\wangkang02\Desktop\iFlyC#04.12.02.04\XFvoice\obj\Release\XFvoice.pdb
+C:\Users\wangkang02\Desktop\iFlyC#04.12.02.04\XFvoice\bin\Release\XFvoice.exe
+C:\Users\wangkang02\Desktop\iFlyC#04.12.02.04\XFvoice\bin\Release\XFvoice.pdb
+C:\Users\wangkang02\Desktop\iFlyC#04.12.02.04\XFvoice\bin\Release\iFlyDotNet.dll
+C:\Users\wangkang02\Desktop\iFlyC#04.12.02.04\XFvoice\bin\Release\NAudio.dll
+C:\Users\wangkang02\Desktop\iFlyC#04.12.02.04\XFvoice\bin\Release\iFlyDotNet.pdb
+C:\Users\wangkang02\Desktop\iFlyC#04.12.02.04\XFvoice\obj\Release\XFvoice.csprojResolveAssemblyReference.cache
+C:\Users\wangkang02\Desktop\iFlyC#04.12.02.04\XFvoice\obj\Release\MainWindow.baml
+C:\Users\wangkang02\Desktop\iFlyC#04.12.02.04\XFvoice\obj\Release\MainWindow.g.cs
+C:\Users\wangkang02\Desktop\iFlyC#04.12.02.04\XFvoice\obj\Release\App.g.cs
+C:\Users\wangkang02\Desktop\iFlyC#04.12.02.04\XFvoice\obj\Release\XFvoice_MarkupCompile.cache
+C:\Users\wangkang02\Desktop\iFlyC#04.12.02.04\XFvoice\obj\Release\XFvoice.g.resources
+C:\Users\wangkang02\Desktop\iFlyC#04.12.02.04\XFvoice\obj\Release\XFvoice.Properties.Resources.resources
+C:\Users\wangkang02\Desktop\iFlyC#04.12.02.04\XFvoice\obj\Release\XFvoice.csproj.GenerateResource.Cache
+C:\Users\wangkang02\Desktop\XUNFEI_c#\iFlyC#04.13.00.14\XFvoice\bin\Release\XFvoice.exe.config
+C:\Users\wangkang02\Desktop\XUNFEI_c#\iFlyC#04.13.00.14\XFvoice\obj\Release\XFvoice.exe
+C:\Users\wangkang02\Desktop\XUNFEI_c#\iFlyC#04.13.00.14\XFvoice\obj\Release\XFvoice.pdb
+C:\Users\wangkang02\Desktop\XUNFEI_c#\iFlyC#04.13.00.14\XFvoice\bin\Release\XFvoice.exe
+C:\Users\wangkang02\Desktop\XUNFEI_c#\iFlyC#04.13.00.14\XFvoice\bin\Release\XFvoice.pdb
+C:\Users\wangkang02\Desktop\XUNFEI_c#\iFlyC#04.13.00.14\XFvoice\bin\Release\NAudio.dll
+C:\Users\wangkang02\Desktop\XUNFEI_c#\iFlyC#04.13.00.14\XFvoice\bin\Release\iFlyDotNet.pdb
+C:\Users\wangkang02\Desktop\XUNFEI_c#\iFlyC#04.13.00.14\XFvoice\obj\Release\XFvoice.csprojResolveAssemblyReference.cache
+C:\Users\wangkang02\Desktop\XUNFEI_c#\iFlyC#04.13.00.14\XFvoice\obj\Release\MainWindow.baml
+C:\Users\wangkang02\Desktop\XUNFEI_c#\iFlyC#04.13.00.14\XFvoice\obj\Release\MainWindow.g.cs
+C:\Users\wangkang02\Desktop\XUNFEI_c#\iFlyC#04.13.00.14\XFvoice\obj\Release\App.g.cs
+C:\Users\wangkang02\Desktop\XUNFEI_c#\iFlyC#04.13.00.14\XFvoice\obj\Release\XFvoice_MarkupCompile.cache
+C:\Users\wangkang02\Desktop\XUNFEI_c#\iFlyC#04.13.00.14\XFvoice\obj\Release\XFvoice.g.resources
+C:\Users\wangkang02\Desktop\XUNFEI_c#\iFlyC#04.13.00.14\XFvoice\obj\Release\XFvoice.Properties.Resources.resources
+C:\Users\wangkang02\Desktop\XUNFEI_c#\iFlyC#04.13.00.14\XFvoice\obj\Release\XFvoice.csproj.GenerateResource.Cache
+C:\Users\wangkang02\Desktop\XUNFEI_c#\iFlyC#04.13.00.14\XFvoice\bin\Release\iFlyDotNet.dll
+C:\Users\wangkang02\Desktop\iFlyC#04.13.00.14\XFvoice\bin\Release\XFvoice.exe.config
+C:\Users\wangkang02\Desktop\iFlyC#04.13.00.14\XFvoice\obj\Release\XFvoice.exe
+C:\Users\wangkang02\Desktop\iFlyC#04.13.00.14\XFvoice\obj\Release\XFvoice.pdb
+C:\Users\wangkang02\Desktop\iFlyC#04.13.00.14\XFvoice\bin\Release\XFvoice.exe
+C:\Users\wangkang02\Desktop\iFlyC#04.13.00.14\XFvoice\bin\Release\XFvoice.pdb
+C:\Users\wangkang02\Desktop\iFlyC#04.13.00.14\XFvoice\bin\Release\iFlyDotNet.dll
+C:\Users\wangkang02\Desktop\iFlyC#04.13.00.14\XFvoice\bin\Release\Microsoft.DirectX.DirectSound.dll
+C:\Users\wangkang02\Desktop\iFlyC#04.13.00.14\XFvoice\bin\Release\Microsoft.DirectX.dll
+C:\Users\wangkang02\Desktop\iFlyC#04.13.00.14\XFvoice\bin\Release\NAudio.dll
+C:\Users\wangkang02\Desktop\iFlyC#04.13.00.14\XFvoice\bin\Release\iFlyDotNet.pdb
+C:\Users\wangkang02\Desktop\iFlyC#04.13.00.14\XFvoice\obj\Release\XFvoice.csprojResolveAssemblyReference.cache
+C:\Users\wangkang02\Desktop\iFlyC#04.13.00.14\XFvoice\obj\Release\MainWindow.baml
+C:\Users\wangkang02\Desktop\iFlyC#04.13.00.14\XFvoice\obj\Release\MainWindow.g.cs
+C:\Users\wangkang02\Desktop\iFlyC#04.13.00.14\XFvoice\obj\Release\App.g.cs
+C:\Users\wangkang02\Desktop\iFlyC#04.13.00.14\XFvoice\obj\Release\XFvoice_MarkupCompile.cache
+C:\Users\wangkang02\Desktop\iFlyC#04.13.00.14\XFvoice\obj\Release\XFvoice.g.resources
+C:\Users\wangkang02\Desktop\iFlyC#04.13.00.14\XFvoice\obj\Release\XFvoice.Properties.Resources.resources
+C:\Users\wangkang02\Desktop\iFlyC#04.13.00.14\XFvoice\obj\Release\XFvoice.csproj.GenerateResource.Cache
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 终板V1.1\XFvoice\bin\Release\XFvoice.exe.config
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 终板V1.1\XFvoice\obj\Release\XFvoice.exe
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 终板V1.1\XFvoice\obj\Release\XFvoice.pdb
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 终板V1.1\XFvoice\bin\Release\XFvoice.exe
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 终板V1.1\XFvoice\bin\Release\XFvoice.pdb
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 终板V1.1\XFvoice\bin\Release\iFlyDotNet.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 终板V1.1\XFvoice\bin\Release\Microsoft.DirectX.DirectSound.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 终板V1.1\XFvoice\bin\Release\Microsoft.DirectX.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 终板V1.1\XFvoice\bin\Release\NAudio.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 终板V1.1\XFvoice\bin\Release\iFlyDotNet.pdb
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 终板V1.1\XFvoice\obj\Release\XFvoice.csprojResolveAssemblyReference.cache
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 终板V1.1\XFvoice\obj\Release\MainWindow.baml
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 终板V1.1\XFvoice\obj\Release\MainWindow.g.cs
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 终板V1.1\XFvoice\obj\Release\App.g.cs
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 终板V1.1\XFvoice\obj\Release\XFvoice_MarkupCompile.cache
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 终板V1.1\XFvoice\obj\Release\XFvoice.g.resources
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 终板V1.1\XFvoice\obj\Release\XFvoice.Properties.Resources.resources
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 终板V1.1\XFvoice\obj\Release\XFvoice.csproj.GenerateResource.Cache
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 Version1.1\XFvoice\bin\Release\XFvoice.exe.config
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 Version1.1\XFvoice\obj\Release\XFvoice.exe
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 Version1.1\XFvoice\obj\Release\XFvoice.pdb
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 Version1.1\XFvoice\bin\Release\XFvoice.exe
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 Version1.1\XFvoice\bin\Release\XFvoice.pdb
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 Version1.1\XFvoice\bin\Release\iFlyDotNet.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 Version1.1\XFvoice\bin\Release\Microsoft.DirectX.DirectSound.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 Version1.1\XFvoice\bin\Release\Microsoft.DirectX.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 Version1.1\XFvoice\bin\Release\NAudio.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 Version1.1\XFvoice\bin\Release\iFlyDotNet.pdb
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 Version1.1\XFvoice\obj\Release\XFvoice.csprojResolveAssemblyReference.cache
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 Version1.1\XFvoice\obj\Release\MainWindow.baml
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 Version1.1\XFvoice\obj\Release\MainWindow.g.cs
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 Version1.1\XFvoice\obj\Release\App.g.cs
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 Version1.1\XFvoice\obj\Release\XFvoice_MarkupCompile.cache
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 Version1.1\XFvoice\obj\Release\XFvoice.g.resources
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 Version1.1\XFvoice\obj\Release\XFvoice.Properties.Resources.resources
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 Version1.1\XFvoice\obj\Release\XFvoice.csproj.GenerateResource.Cache
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 Version1.1\XFvoice\bin\Release\MusicPlayer.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 Version1.1\XFvoice\bin\Release\Interop.WMPLib.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 Version1.1\XFvoice\bin\Release\Interop.Shell32.dll
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 Version1.1\XFvoice\bin\Release\MusicPlayer.pdb
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 Version2.0\XFvoice\bin\Release\XFvoice.exe.config
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 Version2.0\XFvoice\obj\Release\XFvoice.exe
+C:\Users\wangkang02\Desktop\讯飞语音听写\iFlyC#\iFlyC#04.13.21.11 Version2.0\XFvoice\obj\Release\XFvoice.pdb
+C:\Users\wangkang02\Desktop\Kinect-C#-SLN\讯飞语音听写\XunfeiVoiceWrting\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\XFvoice.exe.config
+C:\Users\wangkang02\Desktop\Kinect-C#-SLN\讯飞语音听写\XunfeiVoiceWrting\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.exe
+C:\Users\wangkang02\Desktop\Kinect-C#-SLN\讯飞语音听写\XunfeiVoiceWrting\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.pdb
+C:\Users\wangkang02\Desktop\Kinect-C#-SLN\讯飞语音听写\XunfeiVoiceWrting\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\XFvoice.exe
+C:\Users\wangkang02\Desktop\Kinect-C#-SLN\讯飞语音听写\XunfeiVoiceWrting\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\XFvoice.pdb
+C:\Users\wangkang02\Desktop\Kinect-C#-SLN\讯飞语音听写\XunfeiVoiceWrting\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\iFlyDotNet.dll
+C:\Users\wangkang02\Desktop\Kinect-C#-SLN\讯飞语音听写\XunfeiVoiceWrting\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\Interop.WMPLib.dll
+C:\Users\wangkang02\Desktop\Kinect-C#-SLN\讯飞语音听写\XunfeiVoiceWrting\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\Microsoft.DirectX.DirectSound.dll
+C:\Users\wangkang02\Desktop\Kinect-C#-SLN\讯飞语音听写\XunfeiVoiceWrting\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\Microsoft.DirectX.dll
+C:\Users\wangkang02\Desktop\Kinect-C#-SLN\讯飞语音听写\XunfeiVoiceWrting\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\MusicPlayer.dll
+C:\Users\wangkang02\Desktop\Kinect-C#-SLN\讯飞语音听写\XunfeiVoiceWrting\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\NAudio.dll
+C:\Users\wangkang02\Desktop\Kinect-C#-SLN\讯飞语音听写\XunfeiVoiceWrting\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\Interop.Shell32.dll
+C:\Users\wangkang02\Desktop\Kinect-C#-SLN\讯飞语音听写\XunfeiVoiceWrting\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\iFlyDotNet.pdb
+C:\Users\wangkang02\Desktop\Kinect-C#-SLN\讯飞语音听写\XunfeiVoiceWrting\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\MusicPlayer.pdb
+C:\Users\wangkang02\Desktop\Kinect-C#-SLN\讯飞语音听写\XunfeiVoiceWrting\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.csprojResolveAssemblyReference.cache
+C:\Users\wangkang02\Desktop\Kinect-C#-SLN\讯飞语音听写\XunfeiVoiceWrting\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\MainWindow.baml
+C:\Users\wangkang02\Desktop\Kinect-C#-SLN\讯飞语音听写\XunfeiVoiceWrting\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\MainWindow.g.cs
+C:\Users\wangkang02\Desktop\Kinect-C#-SLN\讯飞语音听写\XunfeiVoiceWrting\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\App.g.cs
+C:\Users\wangkang02\Desktop\Kinect-C#-SLN\讯飞语音听写\XunfeiVoiceWrting\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice_MarkupCompile.cache
+C:\Users\wangkang02\Desktop\Kinect-C#-SLN\讯飞语音听写\XunfeiVoiceWrting\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.g.resources
+C:\Users\wangkang02\Desktop\Kinect-C#-SLN\讯飞语音听写\XunfeiVoiceWrting\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.Properties.Resources.resources
+C:\Users\wangkang02\Desktop\Kinect-C#-SLN\讯飞语音听写\XunfeiVoiceWrting\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.csproj.GenerateResource.Cache
+F:\BaiduNetdiskDownload\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\XFvoice.exe.config
+F:\BaiduNetdiskDownload\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.exe
+F:\BaiduNetdiskDownload\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.pdb
+F:\BaiduNetdiskDownload\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\XFvoice.exe
+F:\BaiduNetdiskDownload\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\XFvoice.pdb
+F:\BaiduNetdiskDownload\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\iFlyDotNet.dll
+F:\BaiduNetdiskDownload\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\Interop.WMPLib.dll
+F:\BaiduNetdiskDownload\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\Microsoft.DirectX.DirectSound.dll
+F:\BaiduNetdiskDownload\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\Microsoft.DirectX.dll
+F:\BaiduNetdiskDownload\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\MusicPlayer.dll
+F:\BaiduNetdiskDownload\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\NAudio.dll
+F:\BaiduNetdiskDownload\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\Interop.Shell32.dll
+F:\BaiduNetdiskDownload\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\iFlyDotNet.pdb
+F:\BaiduNetdiskDownload\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\MusicPlayer.pdb
+F:\BaiduNetdiskDownload\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.csprojResolveAssemblyReference.cache
+F:\BaiduNetdiskDownload\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\MainWindow.baml
+F:\BaiduNetdiskDownload\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\MainWindow.g.cs
+F:\BaiduNetdiskDownload\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\App.g.cs
+F:\BaiduNetdiskDownload\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice_MarkupCompile.cache
+F:\BaiduNetdiskDownload\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.g.resources
+F:\BaiduNetdiskDownload\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.Properties.Resources.resources
+F:\BaiduNetdiskDownload\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.csproj.GenerateResource.Cache
+C:\Users\shezhang\Desktop\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\XFvoice.exe.config
+C:\Users\shezhang\Desktop\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\XFvoice.exe
+C:\Users\shezhang\Desktop\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\XFvoice.pdb
+C:\Users\shezhang\Desktop\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\iFlyDotNet.dll
+C:\Users\shezhang\Desktop\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\Interop.WMPLib.dll
+C:\Users\shezhang\Desktop\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\Microsoft.DirectX.DirectSound.dll
+C:\Users\shezhang\Desktop\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\Microsoft.DirectX.dll
+C:\Users\shezhang\Desktop\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\MusicPlayer.dll
+C:\Users\shezhang\Desktop\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\NAudio.dll
+C:\Users\shezhang\Desktop\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\Interop.Shell32.dll
+C:\Users\shezhang\Desktop\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\iFlyDotNet.pdb
+C:\Users\shezhang\Desktop\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\MusicPlayer.pdb
+C:\Users\shezhang\Desktop\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.csprojResolveAssemblyReference.cache
+C:\Users\shezhang\Desktop\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\MainWindow.baml
+C:\Users\shezhang\Desktop\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\MainWindow.g.cs
+C:\Users\shezhang\Desktop\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\App.g.cs
+C:\Users\shezhang\Desktop\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice_MarkupCompile.cache
+C:\Users\shezhang\Desktop\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.g.resources
+C:\Users\shezhang\Desktop\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.Properties.Resources.resources
+C:\Users\shezhang\Desktop\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.csproj.GenerateResource.Cache
+C:\Users\shezhang\Desktop\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.csproj.CoreCompileInputs.cache
+C:\Users\shezhang\Desktop\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.exe
+C:\Users\shezhang\Desktop\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.pdb
+C:\Users\shezhang\Desktop\人机交互\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\XFvoice.exe.config
+C:\Users\shezhang\Desktop\人机交互\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\XFvoice.exe
+C:\Users\shezhang\Desktop\人机交互\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\XFvoice.pdb
+C:\Users\shezhang\Desktop\人机交互\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\iFlyDotNet.dll
+C:\Users\shezhang\Desktop\人机交互\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\Interop.WMPLib.dll
+C:\Users\shezhang\Desktop\人机交互\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\Microsoft.DirectX.DirectSound.dll
+C:\Users\shezhang\Desktop\人机交互\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\Microsoft.DirectX.dll
+C:\Users\shezhang\Desktop\人机交互\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\MusicPlayer.dll
+C:\Users\shezhang\Desktop\人机交互\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\NAudio.dll
+C:\Users\shezhang\Desktop\人机交互\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\Interop.Shell32.dll
+C:\Users\shezhang\Desktop\人机交互\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\iFlyDotNet.pdb
+C:\Users\shezhang\Desktop\人机交互\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\MusicPlayer.pdb
+C:\Users\shezhang\Desktop\人机交互\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.csprojResolveAssemblyReference.cache
+C:\Users\shezhang\Desktop\人机交互\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\MainWindow.baml
+C:\Users\shezhang\Desktop\人机交互\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\MainWindow.g.cs
+C:\Users\shezhang\Desktop\人机交互\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\App.g.cs
+C:\Users\shezhang\Desktop\人机交互\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice_MarkupCompile.cache
+C:\Users\shezhang\Desktop\人机交互\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.g.resources
+C:\Users\shezhang\Desktop\人机交互\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.Properties.Resources.resources
+C:\Users\shezhang\Desktop\人机交互\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.csproj.GenerateResource.Cache
+C:\Users\shezhang\Desktop\人机交互\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.csproj.CoreCompileInputs.cache
+C:\Users\shezhang\Desktop\人机交互\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.exe
+C:\Users\shezhang\Desktop\人机交互\SoundToTextDemo\iFlyC#_Version1.8\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.pdb
+C:\Users\shezhang\Desktop\语音\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\XFvoice.exe.config
+C:\Users\shezhang\Desktop\语音\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\XFvoice.exe
+C:\Users\shezhang\Desktop\语音\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\XFvoice.pdb
+C:\Users\shezhang\Desktop\语音\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\iFlyDotNet.dll
+C:\Users\shezhang\Desktop\语音\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\Interop.WMPLib.dll
+C:\Users\shezhang\Desktop\语音\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\Microsoft.DirectX.DirectSound.dll
+C:\Users\shezhang\Desktop\语音\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\Microsoft.DirectX.dll
+C:\Users\shezhang\Desktop\语音\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\MusicPlayer.dll
+C:\Users\shezhang\Desktop\语音\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\NAudio.dll
+C:\Users\shezhang\Desktop\语音\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\Interop.Shell32.dll
+C:\Users\shezhang\Desktop\语音\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\iFlyDotNet.pdb
+C:\Users\shezhang\Desktop\语音\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\MusicPlayer.pdb
+C:\Users\shezhang\Desktop\语音\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.csprojResolveAssemblyReference.cache
+C:\Users\shezhang\Desktop\语音\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\MainWindow.baml
+C:\Users\shezhang\Desktop\语音\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\MainWindow.g.cs
+C:\Users\shezhang\Desktop\语音\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\App.g.cs
+C:\Users\shezhang\Desktop\语音\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice_MarkupCompile.cache
+C:\Users\shezhang\Desktop\语音\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.g.resources
+C:\Users\shezhang\Desktop\语音\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.Properties.Resources.resources
+C:\Users\shezhang\Desktop\语音\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.csproj.GenerateResource.Cache
+C:\Users\shezhang\Desktop\语音\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.csproj.CoreCompileInputs.cache
+C:\Users\shezhang\Desktop\语音\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.exe
+C:\Users\shezhang\Desktop\语音\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.pdb
+C:\Users\shezhang\Desktop\语音\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\demoTTS.exe
+C:\Users\shezhang\Desktop\语音\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\demoTTS.pdb
+C:\Users\shezhang\Desktop\语音\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\demoTTS.exe.config
+C:\Users\shezhang\Desktop\语音\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\QCloudAPI_SDK.exe
+C:\Users\shezhang\Desktop\语音\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\QCloudAPI_SDK.pdb
+C:\Users\shezhang\Desktop\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\XFvoice.exe.config
+C:\Users\shezhang\Desktop\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\XFvoice.exe
+C:\Users\shezhang\Desktop\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\XFvoice.pdb
+C:\Users\shezhang\Desktop\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\iFlyDotNet.dll
+C:\Users\shezhang\Desktop\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\Interop.WMPLib.dll
+C:\Users\shezhang\Desktop\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\Microsoft.DirectX.DirectSound.dll
+C:\Users\shezhang\Desktop\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\Microsoft.DirectX.dll
+C:\Users\shezhang\Desktop\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\QCloudAPI_SDK.exe
+C:\Users\shezhang\Desktop\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\QCloudAPI_SDK.pdb
+C:\Users\shezhang\Desktop\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\iFlyDotNet.pdb
+C:\Users\shezhang\Desktop\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.csprojResolveAssemblyReference.cache
+C:\Users\shezhang\Desktop\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\MainWindow.baml
+C:\Users\shezhang\Desktop\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\MainWindow.g.cs
+C:\Users\shezhang\Desktop\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\App.g.cs
+C:\Users\shezhang\Desktop\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice_MarkupCompile.cache
+C:\Users\shezhang\Desktop\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.g.resources
+C:\Users\shezhang\Desktop\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.Properties.Resources.resources
+C:\Users\shezhang\Desktop\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.csproj.GenerateResource.Cache
+C:\Users\shezhang\Desktop\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.csproj.CoreCompileInputs.cache
+C:\Users\shezhang\Desktop\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.exe
+C:\Users\shezhang\Desktop\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.pdb
+C:\Users\Administrator.PC-20170301YHUN\Desktop\LXY\人机交互—导购\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\XFvoice.exe.config
+C:\Users\Administrator.PC-20170301YHUN\Desktop\LXY\人机交互—导购\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.exe
+C:\Users\Administrator.PC-20170301YHUN\Desktop\LXY\人机交互—导购\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.pdb
+C:\Users\Administrator.PC-20170301YHUN\Desktop\LXY\人机交互—导购\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\XFvoice.exe
+C:\Users\Administrator.PC-20170301YHUN\Desktop\LXY\人机交互—导购\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\XFvoice.pdb
+C:\Users\Administrator.PC-20170301YHUN\Desktop\LXY\人机交互—导购\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\iFlyDotNet.dll
+C:\Users\Administrator.PC-20170301YHUN\Desktop\LXY\人机交互—导购\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\Interop.WMPLib.dll
+C:\Users\Administrator.PC-20170301YHUN\Desktop\LXY\人机交互—导购\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\Microsoft.DirectX.DirectSound.dll
+C:\Users\Administrator.PC-20170301YHUN\Desktop\LXY\人机交互—导购\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\Microsoft.DirectX.dll
+C:\Users\Administrator.PC-20170301YHUN\Desktop\LXY\人机交互—导购\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\QCloudAPI_SDK.exe
+C:\Users\Administrator.PC-20170301YHUN\Desktop\LXY\人机交互—导购\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\QCloudAPI_SDK.pdb
+C:\Users\Administrator.PC-20170301YHUN\Desktop\LXY\人机交互—导购\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\iFlyDotNet.pdb
+C:\Users\Administrator.PC-20170301YHUN\Desktop\LXY\人机交互—导购\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.PC-20170301YHUN\Desktop\LXY\人机交互—导购\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\MainWindow.baml
+C:\Users\Administrator.PC-20170301YHUN\Desktop\LXY\人机交互—导购\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\MainWindow.g.cs
+C:\Users\Administrator.PC-20170301YHUN\Desktop\LXY\人机交互—导购\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\App.g.cs
+C:\Users\Administrator.PC-20170301YHUN\Desktop\LXY\人机交互—导购\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice_MarkupCompile.cache
+C:\Users\Administrator.PC-20170301YHUN\Desktop\LXY\人机交互—导购\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.g.resources
+C:\Users\Administrator.PC-20170301YHUN\Desktop\LXY\人机交互—导购\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.Properties.Resources.resources
+C:\Users\Administrator.PC-20170301YHUN\Desktop\LXY\人机交互—导购\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.csproj.GenerateResource.Cache
+C:\Users\shezhang\Desktop\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\MainWin.g.cs
+C:\Users\shezhang\Desktop\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice_MarkupCompile.lref
+C:\Users\shezhang\Desktop\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\MainWin.baml
+C:\Users\shezhang\Desktop\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\RadioButton.baml
+C:\Users\shezhang\Desktop\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\Vista.baml
+C:\Users\shezhang\Desktop\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\App.baml
+C:\Users\shezhang\Desktop\all\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\XFvoice.exe.config
+C:\Users\shezhang\Desktop\all\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\XFvoice.exe
+C:\Users\shezhang\Desktop\all\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\XFvoice.pdb
+C:\Users\shezhang\Desktop\all\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\iFlyDotNet.dll
+C:\Users\shezhang\Desktop\all\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\Interop.WMPLib.dll
+C:\Users\shezhang\Desktop\all\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\Microsoft.DirectX.DirectSound.dll
+C:\Users\shezhang\Desktop\all\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\Microsoft.DirectX.dll
+C:\Users\shezhang\Desktop\all\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\QCloudAPI_SDK.exe
+C:\Users\shezhang\Desktop\all\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\QCloudAPI_SDK.pdb
+C:\Users\shezhang\Desktop\all\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\bin\Release\iFlyDotNet.pdb
+C:\Users\shezhang\Desktop\all\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.csprojAssemblyReference.cache
+C:\Users\shezhang\Desktop\all\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\MainWindow.baml
+C:\Users\shezhang\Desktop\all\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\RadioButton.baml
+C:\Users\shezhang\Desktop\all\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\App.baml
+C:\Users\shezhang\Desktop\all\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\MainWin.g.cs
+C:\Users\shezhang\Desktop\all\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\MainWindow.g.cs
+C:\Users\shezhang\Desktop\all\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\App.g.cs
+C:\Users\shezhang\Desktop\all\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice_MarkupCompile.cache
+C:\Users\shezhang\Desktop\all\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice_MarkupCompile.lref
+C:\Users\shezhang\Desktop\all\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\MainWin.baml
+C:\Users\shezhang\Desktop\all\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\Vista.baml
+C:\Users\shezhang\Desktop\all\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.g.resources
+C:\Users\shezhang\Desktop\all\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.Properties.Resources.resources
+C:\Users\shezhang\Desktop\all\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.csproj.GenerateResource.cache
+C:\Users\shezhang\Desktop\all\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.csproj.CoreCompileInputs.cache
+C:\Users\shezhang\Desktop\all\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.csproj.CopyComplete
+C:\Users\shezhang\Desktop\all\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.exe
+C:\Users\shezhang\Desktop\all\语音 - 副本\iFlyC#04.13.21.11 Version1.8\XFvoice\obj\Release\XFvoice.pdb
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\bin\Release\XFvoice.exe.config
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\bin\Release\XFvoice.exe
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\bin\Release\XFvoice.pdb
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\bin\Release\iFlyDotNet.dll
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\bin\Release\Interop.WMPLib.dll
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\bin\Release\Microsoft.DirectX.DirectSound.dll
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\bin\Release\Microsoft.DirectX.dll
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\bin\Release\Microsoft.Kinect.dll
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\bin\Release\QCloudAPI_SDK.exe
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\bin\Release\QCloudAPI_SDK.pdb
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\bin\Release\iFlyDotNet.pdb
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\bin\Release\Microsoft.Kinect.xml
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\obj\Release\XFvoice.csprojAssemblyReference.cache
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\obj\Release\MainWindow.baml
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\obj\Release\RadioButton.baml
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\obj\Release\App.baml
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\obj\Release\MainWindow.g.cs
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\obj\Release\Window1.g.cs
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\obj\Release\App.g.cs
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\obj\Release\XFvoice_MarkupCompile.cache
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\obj\Release\XFvoice_MarkupCompile.lref
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\obj\Release\Vista.baml
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\obj\Release\Window1.baml
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\obj\Release\XFvoice.g.resources
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\obj\Release\XFvoice.Properties.Resources.resources
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\obj\Release\XFvoice.csproj.GenerateResource.cache
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\obj\Release\XFvoice.csproj.CoreCompileInputs.cache
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\obj\Release\XFvoice.csproj.CopyComplete
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\obj\Release\XFvoice.exe
+C:\Users\shezhang\Desktop\all\语音 - 副本\语音有错了\XFvoice\obj\Release\XFvoice.pdb
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\bin\Release\XFvoice.exe.config
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\bin\Release\XFvoice.exe
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\bin\Release\iFlyDotNet.dll
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\bin\Release\Interop.WMPLib.dll
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\bin\Release\Microsoft.DirectX.DirectSound.dll
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\bin\Release\Microsoft.DirectX.dll
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\bin\Release\Microsoft.Kinect.dll
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\bin\Release\QCloudAPI_SDK.exe
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\bin\Release\QCloudAPI_SDK.pdb
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\bin\Release\iFlyDotNet.pdb
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\bin\Release\Microsoft.Kinect.xml
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\obj\Release\XFvoice.csprojAssemblyReference.cache
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\obj\Release\MainWindow.baml
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\obj\Release\RadioButton.baml
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\obj\Release\App.baml
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\obj\Release\MainWindow.g.cs
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\obj\Release\Window1.g.cs
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\obj\Release\App.g.cs
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\obj\Release\XFvoice_MarkupCompile.cache
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\obj\Release\XFvoice_MarkupCompile.lref
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\obj\Release\Vista.baml
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\obj\Release\Window1.baml
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\obj\Release\XFvoice.g.resources
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\obj\Release\XFvoice.Properties.Resources.resources
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\obj\Release\XFvoice.csproj.GenerateResource.cache
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\obj\Release\XFvoice.csproj.CoreCompileInputs.cache
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\obj\Release\XFvoice.csproj.CopyComplete
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\obj\Release\XFvoice.exe
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\obj\Release\XFvoice.pdb
+C:\Users\qq\Desktop\dao\语音有错了\XFvoice\bin\Release\XFvoice.pdb
+E:\在桌面\dao\语音有错了\XFvoice\bin\Release\XFvoice.exe.config
+E:\在桌面\dao\语音有错了\XFvoice\bin\Release\XFvoice.exe
+E:\在桌面\dao\语音有错了\XFvoice\bin\Release\XFvoice.pdb
+E:\在桌面\dao\语音有错了\XFvoice\bin\Release\AipSdk.dll
+E:\在桌面\dao\语音有错了\XFvoice\bin\Release\iFlyDotNet.dll
+E:\在桌面\dao\语音有错了\XFvoice\bin\Release\Interop.WMPLib.dll
+E:\在桌面\dao\语音有错了\XFvoice\bin\Release\Microsoft.DirectX.DirectSound.dll
+E:\在桌面\dao\语音有错了\XFvoice\bin\Release\Microsoft.DirectX.dll
+E:\在桌面\dao\语音有错了\XFvoice\bin\Release\Microsoft.Kinect.dll
+E:\在桌面\dao\语音有错了\XFvoice\bin\Release\Newtonsoft.Json.dll
+E:\在桌面\dao\语音有错了\XFvoice\bin\Release\iFlyDotNet.pdb
+E:\在桌面\dao\语音有错了\XFvoice\bin\Release\Microsoft.Kinect.xml
+E:\在桌面\dao\语音有错了\XFvoice\obj\Release\RadioButton.baml
+E:\在桌面\dao\语音有错了\XFvoice\obj\Release\style\BureauBlue.baml
+E:\在桌面\dao\语音有错了\XFvoice\obj\Release\style\Theme.baml
+E:\在桌面\dao\语音有错了\XFvoice\obj\Release\customMessageBox.g.cs
+E:\在桌面\dao\语音有错了\XFvoice\obj\Release\MainWindow.g.cs
+E:\在桌面\dao\语音有错了\XFvoice\obj\Release\App.g.cs
+E:\在桌面\dao\语音有错了\XFvoice\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\在桌面\dao\语音有错了\XFvoice\obj\Release\XFvoice_MarkupCompile.cache
+E:\在桌面\dao\语音有错了\XFvoice\obj\Release\XFvoice_MarkupCompile.lref
+E:\在桌面\dao\语音有错了\XFvoice\obj\Release\App.baml
+E:\在桌面\dao\语音有错了\XFvoice\obj\Release\customMessageBox.baml
+E:\在桌面\dao\语音有错了\XFvoice\obj\Release\MainWindow.baml
+E:\在桌面\dao\语音有错了\XFvoice\obj\Release\Vista.baml
+E:\在桌面\dao\语音有错了\XFvoice\obj\Release\XFvoice.g.resources
+E:\在桌面\dao\语音有错了\XFvoice\obj\Release\XFvoice.Properties.Resources.resources
+E:\在桌面\dao\语音有错了\XFvoice\obj\Release\XFvoice.csproj.GenerateResource.cache
+E:\在桌面\dao\语音有错了\XFvoice\obj\Release\XFvoice.csproj.CoreCompileInputs.cache
+E:\在桌面\dao\语音有错了\XFvoice\obj\Release\XFvoice.csproj.CopyComplete
+E:\在桌面\dao\语音有错了\XFvoice\obj\Release\XFvoice.exe
+E:\在桌面\dao\语音有错了\XFvoice\obj\Release\XFvoice.pdb
+E:\在桌面\dao\语音有错了\XFvoice\obj\Release\XFvoice.csprojAssemblyReference.cache
